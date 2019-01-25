@@ -17,3 +17,8 @@
 
 # It is technical design document which contains all the information regarding this assignments.
 
+# Package 1
+# Script for export of Emp table to CSV
+
+# Package 2
+# Script for importing to staging table
